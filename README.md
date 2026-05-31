@@ -2,8 +2,8 @@
 Repositorio para planos de aprendizaje]**
 del Aprendizaje: Armando el Circuito Comunicativo
 
-### 🛰️ Título: 
-**Plano comunicativo – Patrulla  [MILAGROS DEL Carmen Gonzalez ]**
+### 🛰️ Título: Planos de Aprendizaje Armando el Circuito Comunicativo
+**Plano comunicativo – Patrulla  MILAGROS DEL Carmen Gonzalez 
 
 ---
 
@@ -19,7 +19,7 @@ del Aprendizaje: Armando el Circuito Comunicativo
 
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
-|Briseida|               |                   |
+|Milagros Gonzalez|         milagros.gonzalezoteima.ac.pa      |                   |
 |        |               |                   |
 |        |               |                   |
 |        |               |                   |
