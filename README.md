@@ -28,24 +28,28 @@ del Aprendizaje: Armando el Circuito Comunicativo
 ## 🔍 3️⃣ Exploración de modelos de comunicación
 
 ### 📡 Modelo Lineal
-- **El modelo lineal de comunicación es un proceso unidireccional donde un emisor transmite un mensaje a un receptor a través de un canal. En este esquema simple, el flujo de información va en una sola dirección y no contempla la retroalimentación inmediata (feedback) ni la interacción recíproca.
+- El modelo lineal de comunicación es un proceso unidireccional donde un emisor transmite un mensaje a un receptor a través de un canal. En este esquema simple, el flujo de información va en una sola dirección y no contempla la retroalimentación inmediata (feedback) ni la interacción recíproca.
 - **Ejemplo en nuestro contexto:**  Emisión de televisión o radio: Un presentador de noticias (emisor) transmite información a través de un televisor o radio (canal) hacia la audiencia (receptor). La audiencia no puede interrumpir ni responder al instante.
 
 ### 🔄 Modelo Interactivo
 - **Representación en clases virtuales:**
 - El modelo interactivo de comunicación es un proceso dinámico y bidireccional donde los participantes intercambian constantemente los roles de emisor y receptor. A través de la retroalimentación (feedback), ambas partes ajustan sus mensajes en tiempo real, lo que permite construir el significado de manera conjunta. 
-- **Ejemplo en nuestro contexto:**  
+- **Ejemplo en nuestro contexto:**  Videollamadas o llamadas: Como una reunión por Zoom o Google Meet, donde los participantes conversan en tiempo real, ven el lenguaje corporal y responden al instante.
 
 ### 🧠 Modelo Constructivista
-- **Representación en clases virtuales:**  
+- **Representación en clases virtuales:**
+- El modelo de comunicación constructivista sostiene que el conocimiento no se transmite de forma pasiva, sino que se crea activamente mediante la interacción social. El emisor y el receptor construyen el significado juntos, basándose en sus experiencias previas, su cultura y el contexto en el que se desarrolla el diálogo.
 - **Ejemplo en nuestro contexto:**  
-
+Aprendizaje Basado en Proyectos (ABP): El docente lanza un reto (ej. "¿Cómo limpiar un río contaminado?"). Los alumnos debaten, investigan y comunican sus hallazgos, construyendo su propio aprendizaje en lugar de memorizar teoría.
 ---
 
 ### 💡 Reflexión
 
-- ❓ ¿Qué roles asumimos como emisores y receptores?  
-- 📱 ¿Qué medios utilizamos?  
+- ❓ ¿Qué roles asumimos como emisores y receptores?
+- En la comunicación, el emisor es quien origina y transmite la información (codifica), mientras que el receptor es quien la recibe e interpreta (decodifica). Ambos roles son dinámicos e intercambiables en una conversación, alternándose constantemente para lograr una interacción fluida y efectiva. 
+- 📱 ¿Qué medios utilizamos?
+- Utilizamos una combinación de medios digitales, plataformas de inteligencia artificial y canales en la nube. Esto nos permite procesar tus solicitudes, buscar información en tiempo real y responderte de manera inmediata y estructurada.
+- 
 - ⚠️ ¿Qué obstáculos interfieren en la comunicación?  
 
 ---
