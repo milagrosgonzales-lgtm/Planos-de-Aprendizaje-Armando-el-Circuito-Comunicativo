@@ -50,7 +50,16 @@ Aprendizaje Basado en Proyectos (ABP): El docente lanza un reto (ej. "¿Cómo li
 - 📱 ¿Qué medios utilizamos?
 - Utilizamos una combinación de medios digitales, plataformas de inteligencia artificial y canales en la nube. Esto nos permite procesar tus solicitudes, buscar información en tiempo real y responderte de manera inmediata y estructurada.
 - 
-- ⚠️ ¿Qué obstáculos interfieren en la comunicación?  
+- ⚠️ ¿Qué obstáculos interfieren en la comunicación?
+- Existen distintos obstaculos en la comunicacion estas se refieren a barreras comunicativas, tales  como son:
+- Físicas. Circunstancias que dificultan la comunicación, tales como ruidos ambientales, obstáculos físicos (vidrios, paredes, cortinas) que distorsionen o impidan el entendimiento.
+Semánticas. Tienen que ver con el código, es decir, la lengua en la cual se inscriben los significados de las palabras, los gestos u otro tipo de signos (en la comunicación no verbal). Puede tener que ver con diferencias dialectales o idiomáticas.                                                                                                                                                                                
+Fisiológicas. Vinculadas a la configuración anatómica tanto del emisor como del receptor o receptores, lo que puede traducirse en condiciones médicas (sordera, mudez) o incluso en enfermedades o condiciones transitorias (ronquera, conjuntivitis, etc.).
+Psicológicas. Reflejan la condición mental o emocional de alguno de los actores, que pudiera sabotear la transmisión del mensaje. Por ejemplo, estados de catatonia en los que un individuo no responde a los estímulos comunicativos1.
+Administrativas. Todas aquellas barreras que tienen que ver con la administración de la comunicación, es decir, con su gestión, y que atañen a las instancias involucradas en un instante puntual, como el contexto cultural y circunstancial en que ocurre, los mecanismos tecnológicos usados, entre otras. 
+
+
+
 
 ---
 
