@@ -73,7 +73,7 @@ Administrativas. Todas aquellas barreras que tienen que ver con la administraci�
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|-----------           |----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**      |   Profesor De Ingles|                                                        |                      |
+| 🔊 **Emisor**      |   Profesor De Ingles|   Future                                                    |                      |
 | 👂 **Receptor**    |  Estudiante de Media  |                                                          |                      |
 | 🌐 **Canal**       | clase virtual         | Ej: Google Meet|                      |
 
