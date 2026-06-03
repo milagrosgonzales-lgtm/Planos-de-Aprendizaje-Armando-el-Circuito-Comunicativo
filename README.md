@@ -69,22 +69,17 @@ Administrativas. Todas aquellas barreras que tienen que ver con la administraci�
 ## ⚡ 4️⃣ Diseño del circuito comunicativo
 
 📌 *Formato sugerido: tabla o esquema (puede incluir imágenes, íconos, emojis y enlaces).*
+📌 *Formato sugerido: tabla o esquema (puede incluir imágenes, íconos, emojis y enlaces).*
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
-|--------------------|-----------  -|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**      | PROFESROR   Clase de Ingles| Future Tense  | <img width="670" height="419" alt="image" src="https://github.com/user-attachments/assets/f5d3c549-6626-422f-891a-578d1beedc31" />
+|--------------------|-----------           |----------------------------------------------------------|----------------------|
+| 🔊 **Emisor**      |   Profesor De Ingles|                                                        |                      |
+| 👂 **Receptor**    |  Estudiante de Media  |                                                          |                      |
+| 🌐 **Canal**       | clase virtual         | Ej: Google Meet|                      |
 
+| ⚠️ **Ruido**       | Barreras de Aprendizaje| Ej: desconexión, distracción, mal diseño de contenido    |                      |
+| 🔁 **Retroalimentación** | ¿Que aprendieron?     | Cómo se completa el circuito                             |                      |
 
-| 👂 **Receptor**   | Estudiante   |Estudiante de Ingles| <img width="626" height="385" alt="image" src="https://github.com/user-attachments/assets/435f7fad-8a78-4893-ae9d-d408f57f6d79" />
-                
-                 
-| 🌐 **Canal**      | Google Meet |Interactuan mutuamnete|<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d753e7ad-a9fd-46d2-a00f-636136ff49c2" />
-
-
-| ⚠️ **Ruido**      | Ruidos externos| perros ladrando,carros,lluvia etc |<img width="265" height="190" alt="image" src="https://github.com/user-attachments/assets/fcac8ac9-30d3-4300-a44e-9aab9c0fe325" />
-
-
-| 🔁 **Retroalimentación** |Game| Kahoot( Question about the topic|ç<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/93e57924-745e-46e4-b11f-809e6511b36f" />
                    
 
 ---
