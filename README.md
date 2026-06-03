@@ -73,7 +73,7 @@ Administrativas. Todas aquellas barreras que tienen que ver con la administraci�
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|-----------           |----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**      |   Profesor De Ingles|   Future  Tense <img width="670" height="419" alt="image" src="https://github.com/user-attachments/assets/c5f57b38-48f2-4bfc-9b40-c0a1942e40e1" />
+| 🔊 **Emisor**      |   Profesor De Ingles|   Future  Tense                                <img width="670" height="419" alt="image" src="https://github.com/user-attachments/assets/c5f57b38-48f2-4bfc-9b40-c0a1942e40e1" />
   
                                                              
 | 👂 **Receptor**    |  Estudiante de Media  |PPT,PRACTICAS EN LINEA | <img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/80e390d6-e2cf-4cd6-b55d-b1063f227350" />
