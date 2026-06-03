@@ -73,11 +73,12 @@ Administrativas. Todas aquellas barreras que tienen que ver con la administraci�
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**       |            |                                                          |                      |
-| 👂 **Receptor**     |            |                                                          |                      |
-| 🌐 **Canal**        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
-| ⚠️ **Ruido**        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
-| 🔁 **Retroalimentación** |      | Cómo se completa el circuito                             |                      |
+| 🔊 **Emisor**       | PROFESROR     Clase de Ingles|                      | <img width="670" height="419" alt="image" src="https://github.com/user-attachments/assets/f5d3c549-6626-422f-891a-578d1beedc31" />
+
+| 👂 **Receptor**     | Estudiante |   Estudiante de Ingles                                                       |                      |
+| 🌐 **Canal**        | Google Meet  | Interactuan mutuamnete               |
+| ⚠️ **Ruido**        |  Ruidos externos| perros ladrando,carros,lluvia etc |
+| 🔁 **Retroalimentación** | Game    | Cómo se completa el circuito                             |                      |
 
 ---
 
