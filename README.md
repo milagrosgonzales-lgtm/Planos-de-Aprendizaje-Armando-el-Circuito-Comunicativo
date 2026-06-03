@@ -18,7 +18,7 @@ del Aprendizaje: Armando el Circuito Comunicativo
 
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
-|Milagros Gonzalez  | Organizador                milagros.gonzale@oteima.ac.pa                         |
+|Milagros Gonzalez  | Organizador            |milagros.gonzale@oteima.ac.pa                   
 |        |               |                   |
 |        |               |                   |
 |        |               |                   |
