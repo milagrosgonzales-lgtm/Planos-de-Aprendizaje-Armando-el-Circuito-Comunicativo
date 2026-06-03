@@ -1,9 +1,8 @@
 # Planos-de-Aprendizaje-Armando-el-Circuito-Comunicativo
-Repositorio para planos de aprendizaje]**
-del Aprendizaje: Armando el Circuito Comunicativo
+Repositorio para planos de aprendizaje: Armando el Circuito Comunicativo
 
 ### 🛰️ Título: Planos de Aprendizaje Armando el Circuito Comunicativo
-**Plano comunicativo –   MILAGROS DEL CARMEN GONZALEZ
+Plano comunicativo – MILAGROS DEL CARMEN GONZALEZ
 
 ---
 
