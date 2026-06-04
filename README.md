@@ -73,11 +73,11 @@ Administrativas. Todas aquellas barreras que tienen que ver con la administraci�
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|-----------           |----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**      |   Profesor De Ingles|   Future  Tense                                <img width="670" height="419" alt="image" src="https://github.com/user-attachments/assets/c5f57b38-48f2-4bfc-9b40-c0a1942e40e1" />                                                            
-| 👂 **Receptor**    |  Estudiante de Media  |PPT,PRACTICAS EN LINEA | <img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/80e390d6-e2cf-4cd6-b55d-b1063f227350" />                   |
-| 🌐 **Canal**       | clase virtual         | Ej: Google Meet|                    |                      |  
-| ⚠️ **Ruido**       | Barreras de Aprendizaje| Ej: desconexión, distracción, mal diseño de contenido    |                      |
-| 🔁 **Retroalimentación** | ¿Que aprendieron?     | Kahoot Game                    |                      |
+| 🔊 **Emisor**      |   Profesor De Ingles|   Future  Tense                                |<img width="670" height="419" alt="image" src="https://github.com/user-attachments/assets/c5f57b38-48f2-4bfc-9b40-c0a1942e40e1" />                                                            
+| 👂 **Receptor**    |  Estudiante de Media  |PPT,PRACTICAS EN LINEA | <img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/80e390d6-e2cf-4cd6-b55d-b1063f227350" />                  
+| 🌐 **Canal**       | clase virtual         | Ej: Google Meet|       <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/dd04b020-1981-4126-9e61-1d3158fccbbf" />|
+| ⚠️ **Ruido**       | Barreras de Aprendizaje| Ej: desconexión, distracción, mal diseño de contenido    | <img width="1000" height="658" alt="image" src="https://github.com/user-attachments/assets/c38551ed-55e7-40ba-9f0d-86f124ef98e0" />|
+| 🔁 **Retroalimentación** | ¿Que aprendieron?     | Kahoot Game                    |    <img width="2100" height="1254" alt="image" src="https://github.com/user-attachments/assets/18e213e0-b9b6-4c2a-801e-8abbc7b2f82d" />|
 
                    
 
